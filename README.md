@@ -1,5 +1,7 @@
 ### Hi there 👋
+### Spotify Playing 🎧
 
+[<img src="https://spotify-now-playing.guilp102.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/lyndseylewis7)
 <!--
 **GuiLP102/GuiLP102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
