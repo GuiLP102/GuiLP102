@@ -1,1 +1,3 @@
-![cat](/media/giphy.webp)
+
+
+<img align="right" alt="GIF" height="300px" src="/media/giphy.webp" />
