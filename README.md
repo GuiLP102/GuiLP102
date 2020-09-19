@@ -18,4 +18,4 @@
   
 </p>
 
-[![Spotify](https://github-nowplaying.guilp102.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://guilp102.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
