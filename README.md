@@ -18,4 +18,5 @@
   
 </p>
 
-[![Spotify](https://guilp102.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+&nbsp; <br> [![Spotify](https://guilp102.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
