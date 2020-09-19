@@ -2,7 +2,7 @@
 
 <p><em>Future software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img  width="350px" align="right" alt="GIF" height="400px" src="/media/giphy.webp" />
+<img  width="340px" align="right" alt="GIF" height="400px" src="/media/giphy.webp" />
 
 
 <a href="https://twitter.com/Gh102102" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
