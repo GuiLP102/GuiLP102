@@ -2,15 +2,15 @@
 
 <p><em>A future software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img align="right" alt="GIF" height="350px" src="/media/giphy.webp" />
+<img align="right" alt="GIF" height="400px" src="/media/giphy.webp" />
 
 **Socials** <img src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" width="20"> <br> 
 <a href="https://twitter.com/Gh102102" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/guilp102/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://pt.stackoverflow.com/users/206127/guilherme-henrique)](https://pt.stackoverflow.com/users/206127/guilherme-henrique)
 
-**Stats** <img src="https://media.giphy.com/media/YRJumjVxH7wH0FXxgn/giphy.gif" width="25" >
-<br><img src="https://github-readme-stats.vercel.app/api?username=guilp102&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<img src="https://github-readme-stats.vercel.app/api?username=guilp102&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 **Languages and Tools** <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25" >
