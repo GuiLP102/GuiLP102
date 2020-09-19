@@ -18,5 +18,5 @@
   
 </p>
 
-<p><em><strong>Playing on Spotify</strong> <img src="https://media.giphy.com/media/SXf0PbUTTbkoy40I5V/giphy.gif" width="20" ></p>
+<p><em><strong>Playing on Spotify</strong> <img src="https://media.giphy.com/media/SXf0PbUTTbkoy40I5V/giphy.gif" width="30" ></p>
 <img src="https://novatorem-2ws31j1dp.vercel.app/api/spotify" alt="Guilherme spotify playing" width="350" />
