@@ -1,3 +1,3 @@
-
+<h2> I'm Guilherme Henrique <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align="right" alt="GIF" height="300px" src="/media/giphy.webp" />
