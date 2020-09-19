@@ -9,4 +9,4 @@
 <a href="https://www.instagram.com/guilp102/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://pt.stackoverflow.com/users/206127/guilherme-henrique)](https://pt.stackoverflow.com/users/206127/guilherme-henrique)
 
-<img src="https://github-readme-stats.vercel.app/api?username=guilp102&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=guilp102&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
