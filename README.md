@@ -1,3 +1,5 @@
-<h2> I'm Guilherme Henrique <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> I'm Guilherme Henrique <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
 
-<img align="right" alt="GIF" height="300px" src="/media/giphy.webp" />
+<p><em>Future software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<img align="right" alt="GIF" height="400px" src="/media/giphy.webp" />
